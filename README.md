@@ -62,8 +62,7 @@ This will install ROMs for all Atari environments, including Space Invaders.
 ## 📂 Output Files
 
 - `agent_play.mp4` — Sample of trained agents playing
-- `results/plots.png` — Visual comparison of strategies
-- `data/metrics.csv` — Logged metrics for analysis
+- Visual comparison of strategies
 
 ## 📌 Notes
 
